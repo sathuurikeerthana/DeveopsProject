@@ -8,4 +8,3 @@ public class test2 {
 	}
 
 }
- 
